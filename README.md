@@ -1,4 +1,8 @@
 # Bookstore Jekyll Theme
+### Live Demo
+
+[Live Demo](https://bahadirdogru.github.io/bookstore-theme-jekyll/)
+
 ![bookstore jekyll theme screenshot](assets/images/screenshot.png)
 
   
