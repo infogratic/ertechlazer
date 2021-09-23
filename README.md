@@ -121,7 +121,9 @@ There are Collections in this theme:
 **Slider**
 
 Slider data in _data folder as a slider.json
+
 I use json format.
+
 For creating slider i use [tinyslider](https://github.com/ganlanyuan/tiny-slider).
 
 ```json
