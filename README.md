@@ -221,6 +221,8 @@ That's it! Soon I'll be merging your changes into the master branch of this proj
 Mundana Theme designed and developed by [Sal](https://www.wowthemes.net), *free* under MIT license.
 
 Bookstore Theme designed based on Mundana and developed by [Bahadır](https://www.bahadirdogru.com), *free* under MIT license.
+
+Tinyslider developed by [William Lin](https://github.com/ganlanyuan/tiny-slider), *free* under MIT license.
   
 You can buy a coffee to Mundana's developer and designer.
 
