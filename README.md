@@ -1,16 +1,4 @@
 # Bookstore Jekyll Theme
-
-### This theme based on Mundana by WowThemes.net. You can check Mundana:
-
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp;
-[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp;
-[Buy a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp;  [Documentation](https://bootstrapstarter.com/mundana-theme-jekyll/) &nbsp; | &nbsp;
-[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/)
-
-  
-
-# Bookstrore Theme:
-
 ![bookstore jekyll theme screenshot](assets/images/screenshot.png)
 
   
@@ -152,6 +140,15 @@ There are Collections in this theme:
 6. Submit your changes for review. Go to your repository on GitHub, you'll see a **Compare & pull request** button. Click on that button. Now submit the pull request.
 
 That's it! Soon I'll be merging your changes into the master branch of this project. You will get a notification email once the changes have been merged. Thank you for your contribution.
+
+### This theme based on Mundana by WowThemes.net. You can check Mundana:
+
+[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/) &nbsp; | &nbsp;
+[Download](https://github.com/wowthemesnet/mundana-theme-jekyll/archive/master.zip) &nbsp; | &nbsp;
+[Buy a coffe](https://www.wowthemes.net/donate/) &nbsp; | &nbsp;  [Documentation](https://bootstrapstarter.com/mundana-theme-jekyll/) &nbsp; | &nbsp;
+[WordPress version](https://www.wowthemes.net/themes/mundana-wordpress/)
+
+  
 
 ### Copyright
  
