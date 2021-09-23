@@ -162,4 +162,4 @@ You can buy a coffee to Mundana's developer and designer.
 
 ### Live Demo
 
-[Live Demo](https://wowthemesnet.github.io/mundana-theme-jekyll/)
+[Live Demo](https://bahadirdogru.github.io/bookstore-theme-jekyll/)
