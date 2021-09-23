@@ -118,10 +118,12 @@ There are Collections in this theme:
  - Persons
  And written post can be found on /blog page.
 
-** Slider **
+**Slider**
 
 Slider data in _data folder as a slider.json
 I use json format.
+For creating slider i use [tinyslider](https://github.com/ganlanyuan/tiny-slider).
+
 ```json
 {
     "slides": [
@@ -166,6 +168,15 @@ I use json format.
 
 }
 ```
+`img`  - This is image element source.
+
+`mobile-img`  - This is image for mobile designed.
+
+`alt`  - alt attribute of "img" html element.
+
+`href`  - if slide has a link we use href.
+
+`target`  - this is target attribute of "a" html element
 
 
 ### Contribute to Bookstore repository
