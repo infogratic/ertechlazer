@@ -4,7 +4,7 @@ language: "en"
 description: 'Bookstore is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon/favicon.ico'
-baseurl: 'bookstore-theme-jekyll/'
+baseurl: '/bookstore-theme-jekyll'
 
 # Social Settings
 disqus: 'demowebsite'
