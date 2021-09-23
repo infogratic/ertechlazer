@@ -232,6 +232,6 @@ You can buy a coffee to Mundana's developer and designer.
 
 ### TO-DO List:
 - [ ] snipcart feature (maybe)
-- [ ] as a api service create all collections json files.
+- [ ] as a api service create all collections into a json files.
 - [x] creating all kind of partner of book as a collection.
 
