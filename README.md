@@ -124,7 +124,7 @@ Slider data in _data folder as a slider.json
 
 I use json format.
 
-For creating slider i use [tinyslider](https://github.com/ganlanyuan/tiny-slider).
+For creating slider i use [tinyslider](https://github.com/ganlanyuan/tiny-slider) library.
 
 ```json
 {
@@ -229,3 +229,9 @@ You can buy a coffee to Mundana's developer and designer.
 ### Live Demo
 
 [Live Demo](https://bahadirdogru.github.io/bookstore-theme-jekyll/)
+
+### TO-DO List:
+- [ ] snipcart feature (maybe)
+- [ ] as a api service create all collections json files.
+- [x] creating all kind of partner of book as a collection.
+
