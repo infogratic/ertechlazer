@@ -1,10 +1,10 @@
 # Site
 name: 'Bookstore'
-language: "en"
+language: "tr"
 description: 'Bookstore is a free Jekyll theme for awesome people like you, Medium like.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon/favicon.ico'
-baseurl: ''
+baseurl: '/'
 
 # Social Settings
 disqus: 'demowebsite'
