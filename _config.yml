@@ -1,24 +1,24 @@
 # Site
-name: 'Bookstore'
+name: 'Ertech Laser'
 language: "tr"
-description: 'Bookstore is a free Jekyll theme for awesome people like you, Medium like.'
+description: 'Ertech Laser Kesim Makina.'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon/favicon.ico'
-baseurl: '/'
+baseurl: ''
 
 # Social Settings
-disqus: 'demowebsite'
-email: 'iletisim@bahadirdogru.com'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
-google_analytics: ''
-twitter: 'https://twitter.com/humayunyayin'
-facebook: 'https://www.facebook.com/humayunyayin'
-instagram: 'https://instagram.com/humayunyayin'
-youtube: 'https://www.youtube.com/channel/UCL3XyWMFNCam7Z8wIr6Ce5A'
-catalog: 'https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/humayun-yayinlari/index.html'
+disqus: #'demowebsite'
+email: 'iletisim@ertechlaser.com'
+mailchimp-list: #'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+google_analytics: #'UA-53710816-14'
+katalogurl: #'https://cdn.e-damla.com.tr/PUBLIC/Kataloglar/humayun-yayinlari/index.html'
+twitter: 'https://twitter.com/ertechlaser'
+facebook: 'https://www.facebook.com/ertechlaser'
+instagram: 'https://instagram.com/ertechlaser'
+youtube: 'https://www.youtube.com/channel/ertechlaser'
 
 pagepreview:
-  enabled: true
+  enabled: false
   prefix: 'https://cdn.e-damla.com.tr/damlayayinevi_ornek_sayfalar/'
   postfix: '/index.html'
 
@@ -28,7 +28,7 @@ permalink: /:title/
 
 # BuyOut Ecommerce
 buyout:
-  enabled: true
+  enabled: false
   #buyout websites:
   damlayayinevi: true
   hepsiburada: true
@@ -39,6 +39,8 @@ buyout:
   bkmkitap: true
   amazontr: true
   dkitap: true
+  trendyol: true
+  gittigidiyor: true
 
 # Plugins
 plugins: 
@@ -49,7 +51,6 @@ plugins:
   - jekyll-archives
   - jekyll-figure
   - jekyll-gist
-  
  
 # Defaults
 defaults:
@@ -57,7 +58,6 @@ defaults:
   # all posts
   - scope:
       path: "_posts"
-      type: "posts"
     values:
       layout: post
       avatar: /assets/images/avatar.jpg
@@ -65,65 +65,59 @@ defaults:
   # all pages
   - scope:
       path: "_pages"
-      type: "pages"
     values:
       layout: page
 
-  # all books
-  - scope:
-      path: "_books"
-      type: "books"
-    values:
-      layout: book
-
-  # all authors
-  - scope:
-      path: "_authors"
-      type: "authors"
-    values:
-      layout: author
-
-  # all persons
-  - scope:
-      path: "_persons"
-      type: "persons"
-    values:
-      layout: person
-
-  # all illustrators
-  - scope:
-      path: "_illustrators"
-      type: "illustrators"
-    values:
-      layout: illustrator
-
-  # all translators
-  - scope:
-      path: "_translators"
-      type: "translators"
-    values:
-      layout: translator
-  # all api
+  # # all books
   # - scope:
-  #     path: "_api"
+  #     type: "books"
+  #     path: "_books"
+  #   values:
+  #     layout: book
+
+  # # all authors
+  # - scope:
+  #     type: "authors"
+  #     path: "_authors"
+  #   values:
+  #     layout: author
+
+  # # all persons
+  # - scope:
+  #     type: "persons"
+  #     path: "_persons"
+  #   values:
+  #     layout: person
+
+  # # all illustrators
+  # - scope:
+  #     type: "illustrators"
+  #     path: "_illustrators"
+  #   values:
+  #     layout: illustrator
+
+  # # all translators
+  # - scope:
+  #     type: "translators"
+  #     path: "_translators"
+  #   values:
+  #     layout: translator
       
 # Syntax
 markdown: kramdown
 highlighter: rouge
 
 # XML feed
-feed:
-  collections:
-    books:
-      path: "/kitaplar/feed.xml"
-    authors:
-      path: "/yazarlar/feed.xml"
+# feed:
+#   collections:
+#     books:
+#       path: "/kitaplar/feed.xml"
 
 # excerpt
 excerpt_separator: <!--more-->
 
 # Paginate
-paginate: 7
+paginate: 10
 paginate_path: /page:num/
 paginate_path: "/blog/page:num/"
 
@@ -140,28 +134,23 @@ sass:
   sass_dir: _sass
   style: compressed
 
-collections:
-  books:
-    output: true
-    permalink: /:collection/:title
-    #permalink: /kitaplar/:title
-    sort_by: publish-number
-  authors:
-    output: true
-    permalink: /:collection/:title
-    #permalink: /yazarlar/:title
-  illustrators:
-    output: true
-    permalink: /:collection/:title
-    #permalink: /tasarimcilar/:title
-  translators:
-    output: true
-    permalink: /:collection/:title
-    #permalink: /cevirmenler/:title
-  persons:
-    output: true
-    permalink: /:collection/:title
-    #permalink: /sahsiyetler/:title
+# collections:
+#   books:
+#     output: false
+#     permalink: /kitaplar/:title
+#     sort_by: publish-number
+#   authors:
+#     output: false
+#     permalink: /yazarlar/:title
+#   illustrators:
+#     output: false
+#     permalink: /tasarimcilar/:title
+#   translators:
+#     output: false
+#     permalink: /cevirmenler/:title
+#   persons:
+#     output: false
+#     permalink: /sahsiyetler/:title
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

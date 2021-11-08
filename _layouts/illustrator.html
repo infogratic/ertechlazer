@@ -18,7 +18,7 @@ layout: default
 					<p class="text-uppercase font-weight-bold">
                         <span class="catlist">
 						{% for tag in illustrator.tags %}
-                          <a class="sscroll text-danger" href="{{site.baseurl}}/tags.html#{{ tag | downcase }}">{{ tag | downcase }}</a><span class="sep">, </span>
+                          <a class="sscroll text-danger" href="{{site.baseurl}}/etiketler.html#{{ tag | downcase }}">{{ tag | downcase }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>
 					</p>
@@ -108,12 +108,12 @@ layout: default
         <div class="row prevnextlinks small font-weight-bold">
           {% if illustrator.previous.url %}
             <div class="col-md-6 rightborder pl-0">
-                <a class="text-dark" href="{{ site.url }}{{ illustrator.previous.url }}">{% if illustrator.previous.image %} <img height="30px" class="mr-1" src="{{site.url}}/{{illustrator.previous.image}}"> {% endif %} {{illustrator.previous.title}}</a>
+                <a class="text-dark" href="{{ site.baseurl }}{{ illustrator.previous.url }}">{% if illustrator.previous.image %} <img height="30px" class="mr-1" src="{{site.baseurl}}/{{illustrator.previous.image}}"> {% endif %} {{illustrator.previous.title}}</a>
             </div>
           {% endif %}
           {% if illustrator.next.url %}
             <div class="col-md-6 text-right pr-0">
-                <a class="text-dark" href="{{ site.url }}{{ illustrator.next.url }}"> {{illustrator.next.title}} {% if illustrator.next.image %} <img height="30px" class="ml-1" src="{{site.url}}/{{illustrator.next.image}}"> {% endif %}</a>
+                <a class="text-dark" href="{{ site.baseurl }}{{ illustrator.next.url }}"> {{illustrator.next.title}} {% if illustrator.next.image %} <img height="30px" class="ml-1" src="{{site.baseurl}}/{{illustrator.next.image}}"> {% endif %}</a>
             </div>
           {% endif %}
         </div>

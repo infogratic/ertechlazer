@@ -18,7 +18,7 @@ layout: default
 					<p class="text-uppercase font-weight-bold">
                         <span class="catlist">
 						{% for tag in translator.tags %}
-                          <a class="sscroll text-danger" href="{{site.baseurl}}/tags.html#{{ tag | downcase }}">{{ tag | downcase }}</a><span class="sep">, </span>
+                          <a class="sscroll text-danger" href="{{site.baseurl}}/etiketler.html#{{ tag | downcase }}">{{ tag | downcase }}</a><span class="sep">, </span>
                         {% endfor %}
                         </span>
 					</p>
@@ -108,12 +108,12 @@ layout: default
         <div class="row prevnextlinks small font-weight-bold">
           {% if translator.previous.url %}
             <div class="col-md-6 rightborder pl-0">
-                <a class="text-dark" href="{{ site.url }}{{ translator.previous.url }}">{% if translator.previous.image %} <img height="30px" class="mr-1" src="{{site.url}}/{{translator.previous.image}}"> {% endif %} {{translator.previous.title}}</a>
+                <a class="text-dark" href="{{ site.baseurl }}{{ translator.previous.url }}">{% if translator.previous.image %} <img height="30px" class="mr-1" src="{{site.baseurl}}/{{translator.previous.image}}"> {% endif %} {{translator.previous.title}}</a>
             </div>
           {% endif %}
           {% if translator.next.url %}
             <div class="col-md-6 text-right pr-0">
-                <a class="text-dark" href="{{ site.url }}{{ translator.next.url }}"> {{translator.next.title}} {% if translator.next.image %} <img height="30px" class="ml-1" src="{{site.url}}/{{translator.next.image}}"> {% endif %}</a>
+                <a class="text-dark" href="{{ site.baseurl }}{{ translator.next.url }}"> {{translator.next.title}} {% if translator.next.image %} <img height="30px" class="ml-1" src="{{site.baseurl}}/{{translator.next.image}}"> {% endif %}</a>
             </div>
           {% endif %}
         </div>

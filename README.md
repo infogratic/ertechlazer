@@ -1,1 +1,1 @@
-Ertech Lazer Jekyll Repo.
+# Bookstore Jekyll Theme
