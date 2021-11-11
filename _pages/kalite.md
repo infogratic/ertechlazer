@@ -21,7 +21,7 @@ comments: false
 
 ## KALİTE GÜVENCE
 
-ERMET’de, kalite çalışmaları ISO 9001-2015 ve IATF 16949:2016 kalite yönetim standardı çerçevesinde yürütülmektedir.
+Ertech Lazer’de, kalite çalışmaları ISO 9001-2015 ve IATF 16949:2016 kalite yönetim standardı çerçevesinde yürütülmektedir.
 
 Buna bağlı olarak firma içerisinde ki tüm prosesler, önceden elde edilmiş tecrübe ve bilgi birikimi ışığında hazırlanmış prosedür ve iş talimatlarına uygun bir şekilde yapılır, kayıt altına alınır ve arşivlenir.
 
@@ -29,7 +29,7 @@ Kalite çalışmaları içerisinde çalışanlar gerek iç gerekse dış eğitim
 
 ## KALİTE KONTROL
 
-Üretimi yapılan bütün parçaların kalitesini ön planda tutan ERMET’de tüm prosesler, önceden elde edilmiş tecrübe ve bilgi birikimi ışığında hazırlanmış prosedür ve iş talimatlarına uygun bir şekilde yapılır, kayıt altına alınır ve arşivlenir.
+Üretimi yapılan bütün parçaların kalitesini ön planda tutan Ertech Lazer'de tüm prosesler, önceden elde edilmiş tecrübe ve bilgi birikimi ışığında hazırlanmış prosedür ve iş talimatlarına uygun bir şekilde yapılır, kayıt altına alınır ve arşivlenir.
 
 Tüm şirket çalışanlarının kaliteye katkısı sağlanmış, gelişen teknoloji ve tüm diğer mesleki gelişmeler firma çalışanlarına düzenlenen planlı eğitimler ile aktarılmaktadır.
 

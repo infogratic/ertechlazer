@@ -7,6 +7,7 @@ comments: false
 
 <h5>Adres:</h5>
 <div>Ertech Lazer Kesim ve Makina Sanayi Tic.Ltd. Şti.
+<br>
 ORHANLI ORTA MAHALLE PREVEZE CADDESİ NO:18
 TUZLA - ISTANBUL - TÜRKİYE</div>
 <h5>Telefon:</h5>
@@ -17,7 +18,7 @@ TUZLA - ISTANBUL - TÜRKİYE</div>
 
 <div class="mapouter">
     <div class="gmap_canvas">
-        <iframe width="800px" height="400px" id="gmap_canvas" src="https://maps.google.com/maps?q=ermet%20makina%20tuzla&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.whatismyip-address.com/divi-discount/"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
+        <iframe width="800px" height="400px" id="gmap_canvas" src="https://maps.google.com/maps?q=ermet%20makina%20tuzla&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
     </div>
 </div>
 
