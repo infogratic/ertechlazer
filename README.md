@@ -1,1 +1,1 @@
-# Bookstore Jekyll Theme
+# Company Jekyll Theme
