@@ -1,0 +1,181 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "isim",
+            "img": "assets/images/products/8386.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8386.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 2,
+            "name": "isim",
+            "img": "assets/images/products/8409.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8409.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 3,
+            "name": "isim",
+            "img": "assets/images/products/8417.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8417.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 4,
+            "name": "isim",
+            "img": "assets/images/products/8431.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8431.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 5,
+            "name": "isim",
+            "img": "assets/images/products/8432.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8432.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 6,
+            "name": "isim",
+            "img": "assets/images/products/8454.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8454.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 7,
+            "name": "isim",
+            "img": "assets/images/products/8461.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8461.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 8,
+            "name": "isim",
+            "img": "assets/images/products/8463.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8463.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 9,
+            "name": "isim",
+            "img": "assets/images/products/8464.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8464.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 10,
+            "name": "isim",
+            "img": "assets/images/products/8474.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8474.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 11,
+            "name": "isim",
+            "img": "assets/images/products/8488.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8488.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 12,
+            "name": "isim",
+            "img": "assets/images/products/8495.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8495.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 13,
+            "name": "isim",
+            "img": "assets/images/products/8497.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8497.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 14,
+            "name": "isim",
+            "img": "assets/images/products/8499.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8499.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 15,
+            "name": "isim",
+            "img": "assets/images/products/8571.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8571.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 16,
+            "name": "isim",
+            "img": "assets/images/products/8588.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8588.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 17,
+            "name": "isim",
+            "img": "assets/images/products/8626.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8626.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 18,
+            "name": "isim",
+            "img": "assets/images/products/8636.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8636.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 19,
+            "name": "isim",
+            "img": "assets/images/products/8658.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8658.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 20,
+            "name": "isim",
+            "img": "assets/images/products/8679.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8679.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 21,
+            "name": "isim",
+            "img": "assets/images/products/8692.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8692.jpg",
+            "target": "blank"
+        },
+        {
+            "id": 22,
+            "name": "isim",
+            "img": "assets/images/products/8702.jpg",
+            "alt": "slide1",
+            "href": "assets/images/products/8702.jpg",
+            "target": "blank"
+        }
+    ]
+
+}

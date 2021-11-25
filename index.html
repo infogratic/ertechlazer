@@ -19,7 +19,7 @@ description: "Ertech Laser Kesim ve Makina Hizmetleri"
 {% include yazi.html %}
 
 <!-- Begin post excerpts, let's highlight the first 4 posts on top -->
-<div class="row add-site-content-margin">
+<div class="row add-site-content-margin d-none">
     
     <!-- latest post -->
     {% assign latest_post = site.posts[0] %}
@@ -194,8 +194,8 @@ description: "Ertech Laser Kesim ve Makina Hizmetleri"
     
 </div>
 
-<!-- 
-{% assign books = site.books %}
+
+{% assign products = site.data.products.products %}
 {% include product-slider.html %}
    
 <!-- Sticky - add sticky tag to the post you want to highlight here - tags: [sticky] -->
@@ -210,7 +210,7 @@ description: "Ertech Laser Kesim ve Makina Hizmetleri"
                     <!-- {{ post.excerpt | strip_html | strip_newlines | truncate: 146 }} -->
                     {{ post.excerpt | strip_html | strip_newlines }}
                 </p>
-                <a href="{{site.baseurl}}{{post.url}}" class="btn btn-dark">Devamını oku</a>
+                <a href="{{site.baseurl}}/iletisim" class="btn btn-dark">İletişime Geçin</a>
             </div>
             <div class="col-md-6 d-none d-md-block pr-0" style="background-size:cover;background-image:url({{site.baseurl}}/{{ post.image }});">	
             </div>
