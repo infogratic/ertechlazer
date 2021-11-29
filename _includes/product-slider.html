@@ -13,7 +13,7 @@
         <div class="product-slider h-10" id="product-slider">
             {% for product in products %}
                 <div class="item">
-                    <a class="item img book-{{forloop.index}}" href="{{ product.href }}">
+                    <a class="item img book-{{forloop.index}} glightbox" href="{{ product.href }}">
                         <img class="img-fluid h-25 slider-image" src="/{{ product.img }}" alt="{{ product.alt }}">
                     </a>
                 </div>
@@ -57,4 +57,13 @@
     }
   }
   );
+</script>
+
+<script src="{{site.baseurl}}/assets/js/glightbox.min.js"></script>
+
+<script>
+    var lightbox = GLightbox();
+            lightbox.on('open', (target) => {
+                console.log('lightbox opened');
+            });
 </script>
