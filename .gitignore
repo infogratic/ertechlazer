@@ -5,3 +5,4 @@ node_modules
 Gemfile.lock
 .jekyll-cache
 nogit/
+.DS_Store
